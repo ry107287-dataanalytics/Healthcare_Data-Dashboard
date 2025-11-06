@@ -23,3 +23,10 @@ Now for our purposes we will mainly see below steps:
 3. Appending 2 Tables
 4. Replacing & trimming values
 There are many other transformation steps which you can apply like Pivot/Unpivot, Merge, Filtering etc.
+
+# Tools and Technology Used-
+1. SQL
+2. PowerBI
+
+# Dataset Link- 
+https://drive.google.com/drive/folders/1MQXwSoQUHc6JRB17FgMLNBuJtsnicuff?usp=sharing
